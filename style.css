@@ -1,3 +1,25 @@
-body {
-  
+*{
+  box-sizing: border-box;
 }
+
+:root {
+ font-size: 62.5%;
+}
+
+body {
+  background-image: url(./assets/Páginadereceita.jpg);
+  background-size: cover;
+}
+
+#page {
+  width: 80rem;
+  padding: 2.4rem;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 4.8rem auto;
+}
+
+img {
+  border-radius: 16px;
+}
+
