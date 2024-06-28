@@ -3,7 +3,9 @@
 }
 
 :root {
+  font-family: "Alice", serif;
  font-size: 62.5%;
+ color: #573A37;
 }
 
 body {
@@ -23,3 +25,15 @@ img {
   border-radius: 16px;
 }
 
+h1 {
+  line-height: 140%;
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+h1, h2 {
+  color: #291B1A;
+}
